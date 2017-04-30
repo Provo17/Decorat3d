@@ -1,0 +1,15 @@
+{
+
+    "stlpath": "models/cute/Cartoon_Dog.stl",
+
+    "objtitle": "Silly Dog",
+
+    "description": "This dog is a bit silly. Absurdly sticks out his tongue. We don't know why in particular.",
+
+    "materials": ["ABS","PLA","NYLON"],
+
+    "price": 7.99,
+
+    "price_subtext": "+ $20 for shipping outside USA."
+
+}

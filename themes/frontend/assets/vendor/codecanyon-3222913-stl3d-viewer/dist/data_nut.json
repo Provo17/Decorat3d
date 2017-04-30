@@ -1,0 +1,15 @@
+{
+
+    "stlpath": "models/nut-ascii.stl",
+
+    "objtitle": "Mini Nut for Hobbyists",
+
+    "description": "Mini nut. The diamond patterned exterior provides great traction for tightening. Print this using Nylon for lasting durability.",
+
+    "materials": ["ABS","PLA","NYLON"],
+
+    "price": 9.99,
+
+    "price_subtext": "+ $20 for shipping outside USA."
+
+}

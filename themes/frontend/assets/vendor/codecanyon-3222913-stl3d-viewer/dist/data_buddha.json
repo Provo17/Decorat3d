@@ -1,0 +1,15 @@
+{
+
+    "stlpath": "models/cute/buddha-fixed-bottom.stl",
+
+    "objtitle": "Seated Buddha",
+
+    "description": "Miniature buddha. Smiling as he lounges on his little seat.",
+
+    "materials": ["ABS","PLA","NYLON"],
+
+    "price": 19.99,
+
+    "price_subtext": "+ $20 for shipping outside USA."
+
+}

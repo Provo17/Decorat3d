@@ -1,0 +1,15 @@
+{
+
+    "stlpath": "models/cute/dragon.stl",
+
+    "objtitle": "Stanford Dragon",
+
+    "description": "Not quite menacing this one. Its the Stanford Univ. dragon miniature. Credits: http://www.thingiverse.com/thing:27666/",
+
+    "materials": ["ABS","PLA","NYLON"],
+
+    "price": 29.99,
+
+    "price_subtext": "+ $20 for shipping outside USA."
+
+}

@@ -1,0 +1,709 @@
+@charset "utf-8";
+/* CSS Document */
+img{
+max-width:100%;}
+.ss{
+display:none;}
+
+@media only screen and (max-width: 1024px){
+header.navbar-inverse .navbar-nav > li > a{
+padding: 30px 8px;}
+
+.masonry .item {
+    margin-bottom: 30px;
+    max-height: 469px;
+}
+
+.nav > li {
+    padding: 0 8px;
+}
+#profile_menu .userName1 {
+    margin-top: 22px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 4px;
+}
+#profile_menu .plusDrop .topButton{
+top:0px;}
+}
+
+@media only screen and (max-width: 980px){
+.navbar-inverse .navbar-nav > li > a {
+    font-size: 15px !important;
+    padding: 0px 5px !important;
+}
+.nav{
+padding-bottom:10px;}
+.navbar-inverse .navbar-brand{}
+.navbar-inverse .navbar-brand{
+line-height:auto;
+margin:0 auto !important;
+padding:0px;}
+.navbar-collapse .nav > li {
+    padding: 0 5px;
+}
+.userName1{
+margin-top:-9px !important;}
+.topButton .caret{
+margin-top:-5px;}
+.navbar-header{
+float:none !important;}
+.navbar-brand {
+    float: none !important;
+    height: auto !important;
+    line-height: 10px !important;
+    padding: 0px;
+}
+#profile_menu .plusDrop .topButton{
+margin-top:0px !important;}
+.logoutClass .plusDrop .topButton{
+top:0px;}
+
+.logoutClass{
+padding-top:0px !important;}
+.navbar-brand > img {
+    display: block;
+    margin: 0 auto;
+}
+.navbar-brand{
+height:auto;
+line-height:auto;
+padding:0px;}
+.masonry .item {
+    margin-bottom: 10px;
+    min-height: 221px;
+	max-height:none;
+}
+}
+@media only screen and (max-width: 900px){
+.selectPart111 {
+    padding: 87px !important;
+}
+
+.navbar-inverse .navbar-nav {
+padding-bottom:10px;
+}
+.navbar-inverse .navbar-brand{
+ margin: 0 auto !important;
+    padding: 30px 0 0;
+    width: 158px;}
+}
+
+
+
+@media only screen and (max-width: 800px){
+.topButton .caret {
+    margin-top: 26px;
+}
+.userName1 {
+    margin-top: 10px !important;
+}
+.navbar-inverse .navbar-brand img{
+    display: block;
+    float: none;
+    height: auto;
+    margin: 0 auto !important;
+    width: 158px;
+}
+.navbar-inverse .navbar-nav {
+    padding: 2px 0 10px;
+}
+.nav.navbar-nav.navbar-right {
+    float: none !important;
+    margin-right: 0 !important;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float: none;
+}
+
+.navbar-nav > li > a {
+    line-height: 20px;
+}
+header.navbar-inverse .navbar-nav > li > a{
+padding:6px 0;}
+.nav > li > a {
+    display: block;
+    position: relative;
+}
+.navbar-inverse .navbar-brand{
+line-height:auto;
+padding:0px;}
+.navbar-brand{
+float:none !important;
+height:auto !important;
+padding:0px;}
+
+.navbar-header {
+    float: none !important;
+    margin: 0 !important;
+    padding: 0;
+}
+}
+@media only screen and (min-device-width:480px) and (max-device-height:320px){.navbar-fixed-top .navbar-collapse, .navbar-fixed-top .navbar-collapse{max-height:200px !important;}
+}
+@media only screen and (min-device-width:640px) and (max-device-height:360px){.navbar-fixed-top .navbar-collapse, .navbar-fixed-top .navbar-collapse{max-height:210px !important;}
+}
+@media only screen and (max-width: 768px) {
+.registration-form .from-label{
+	text-align:left;
+}
+
+.logoutClass #log_menu{
+margin-top:0px;}
+.dash-box {
+    padding: 78px 0 0 0 !important;
+}
+
+ .navbar-inverse .navbar-brand {
+    color: #fff;
+    display: block;
+    float: none;
+    font-family: "open sans",sans-serif;
+    font-size: 36px;
+    line-height: 50px;
+    margin: 0 auto !important;
+    padding: 30px 0 0;
+    width: 158px;
+}
+
+.logoutClass .plusDrop .topButton{
+top:6px;}
+
+
+.logoutClass{top:14px;}
+.navbar-collapse .nav > li {
+    padding: 0 3px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    font-size: 14px;
+    padding: 30px 5px;
+}
+.login-sec{
+	background:#fff;
+}
+header .nav > li {
+    padding: 0 3px;
+}
+
+.navbar-inverse .navbar-nav {
+    padding: 0 0 12px;
+}
+
+header.navbar-inverse .navbar-nav > li > a{
+padding: 30px 5px;
+font-size:16px;}
+
+#main-slider .carousel .carousel-inner h2{
+font-size:47px;}
+
+.item .btn-bs1{
+padding: 9px 30px;}
+
+
+.block-box1 .feture-grids .feture-grid{
+margin:0px;
+padding:0px;}
+
+.feture-grid .btn-bs1, .ds-block-pro .btn-bs1{
+padding: 9px 12px;
+font-size: 19px;}
+.color-box3 .dash-in .topr-up-box .nav > li > a{
+padding: 10px 10px;}
+.color-box3 .dash-in .topr-up-box .nav-tabs > li.active > a, .topr-up-box .nav-tabs > li.active > a:focus, .topr-up-box .nav-tabs > li.active > a:hover{padding: 12px 10px;}
+.tab-pane .ds-block-pro .feture-grid img, .dash-in .ds-block-pro .feture-grid img{
+height:auto;}
+}
+
+@media only screen and (max-width: 767px){
+.dropdown.plusDrop.open .caret {
+    outline: 0 none !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 10px !important;
+    z-index: 9999 !important;
+}
+.logoutClass #log_menu{
+margin-top:0px;}
+.topButton {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border: 0 none !important;
+    color: #000 !important;
+    font-size: 18px !important;
+    line-height: 1 !important;
+    margin-top: 12px !important;
+    padding: 0 !important;
+    position: relative;
+}
+
+.plusDrop .dropdown-menu{
+margin-top:0px !important;}
+.plusDrop .dropdown-menu{
+margin-top:0px !important;}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 400px;
+    overflow: scroll;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    background: #0066cc none repeat scroll 0 0 !important;
+    max-height: none;
+}
+.navbar-collapse .nav > li {
+    border-bottom: 1px solid #0d57a1;
+    transition-duration: 0.5s;
+}
+.navbar-collapse .nav > li {
+    padding: 0 3px;
+}
+
+.navbar-nav > li {
+    display: block;
+    float: none;
+}
+
+
+header.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    display: block;
+    padding: 10px 0 !important;
+    text-align: center;
+}
+
+header.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    display: block;
+    padding: 10px 0 !important;
+    text-align: center;
+}
+.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    font-size: 14px;
+}
+.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    font-size: 14px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    font-size: 16px;
+    padding: 10px 5px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 10px 0 !important;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 0;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 7px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 8px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff !important;
+    font-size: 17px !important;
+    font-weight: 600;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff !important;
+    font-size: 17px !important;
+    font-weight: 600;
+}
+.navbar-inverse .navbar-nav > li > a {
+    border-bottom: 0 solid transparent;
+    border-radius: 0;
+    color: #000;
+    font-size: 18px;
+    padding: 30px 11px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #9d9d9d;
+}
+.nav > li > a {
+    padding: 10px 0;
+}
+.navbar-nav > li > a {
+    line-height: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.nav > li > a {
+    display: block;
+    padding: 10px 15px;
+    position: relative;
+}
+
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    margin-left: 1%;
+}
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    margin-left: 12%;
+    width: 120px;
+}
+.navbar-collapse .navbar-nav .hidden-xs {
+    border-bottom: 0 none;
+}
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    margin-left: 43%;
+    top: 10px;
+    width: 93px;
+}
+.navbar-nav .hidden-xs:nth-child(2n) {
+    margin-left: 0 !important;
+}
+.navbar-collapse .nav > li {
+    border-bottom: 1px solid #0d57a1;
+    transition-duration: 0.5s;
+}
+.navbar-collapse .nav > li {
+    padding: 0 3px;
+}
+.navbar-collapse .nav > li {
+    padding: 0 5px;
+}
+.navbar-collapse .nav > li {
+    padding: 0 5px;
+}
+.navbar-collapse .nav > li {
+    padding: 0 3px;
+}
+header .nav > li {
+    padding: 0 3px;
+}
+.navbar-nav > li {
+    display: block;
+    float: none;
+}
+.navbar-nav > li {
+    display: inline-block;
+    float: none;
+}
+.nav > li {
+    padding: 0 7px;
+}
+.nav > li {
+    display: block;
+	float:none;
+    position: relative;
+}
+.hidden-xs {
+    float: left !important;
+}
+.hidden-xs {
+    display: block !important;
+}
+
+
+*::after, *::before {
+    box-sizing: border-box;
+}
+*::after, *::before {
+    box-sizing: border-box;
+}
+header.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    display: block;
+    padding: 10px 0 !important;
+    text-align: center;
+}
+.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    font-size: 14px;
+}
+.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    font-size: 14px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    font-size: 16px;
+    padding: 10px 5px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 10px 0 !important;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 0;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 7px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 8px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff !important;
+    font-size: 17px !important;
+    font-weight: 600;
+}
+.navbar-inverse .navbar-nav > li > a {
+    border-bottom: 0 solid transparent;
+    border-radius: 0;
+    color: #000;
+    font-size: 18px;
+    padding: 30px 11px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #9d9d9d;
+}
+.nav > li > a {
+    padding: 10px 0;
+}
+.navbar-nav > li > a {
+    line-height: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.nav > li > a {
+    display: block;
+    padding: 10px 15px;
+    position: relative;
+}
+
+*::after, *::before {
+    box-sizing: border-box;
+}
+*::after, *::before {
+    box-sizing: border-box;
+}
+header.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    display: block;
+    padding: 10px 0 !important;
+    text-align: center;
+}
+.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    font-size: 14px;
+}
+.navbar-inverse .navbar-collapse .navbar-nav > li > a {
+    font-size: 14px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    font-size: 16px;
+    padding: 10px 5px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 10px 0 !important;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 0;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 7px;
+}
+header.navbar-inverse .navbar-nav > li > a {
+    padding: 30px 8px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff !important;
+    font-size: 17px !important;
+    font-weight: 600;
+}
+.navbar-inverse .navbar-nav > li > a {
+    border-bottom: 0 solid transparent;
+    border-radius: 0;
+    color: #000;
+    font-size: 18px;
+    padding: 30px 11px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #9d9d9d;
+}
+.nav > li > a {
+    padding: 10px 0;
+}
+.navbar-nav > li > a {
+    line-height: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.nav > li > a {
+    display: block;
+    padding: 10px 15px;
+    position: relative;
+}
+
+.navbar-collapse .navbar-nav .logoutClass {
+    display: block !important;
+    width: 214px !important;
+}
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    margin-left: 1%;
+}
+.navbar-collapse .navbar-nav .logoutClass {
+    display: block;
+    width: 200px !important;
+}
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    width: 120px;
+}
+.navbar-collapse .navbar-nav .logoutClass {
+    display: block !important;
+
+    width: 214px;
+}
+.navbar-collapse .navbar-nav .hidden-xs.logoutClass {
+    display: block;
+    margin-left: 11% ;
+    width: 200px;
+}
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    margin-left: 12%;
+    width: 120px;
+}
+#profile_menu .userName1, .topButton .caret {
+    color: #fff;
+    font-weight: 600;
+}
+#profile_menu .userName1 {
+    margin-top: 0;
+}
+.userName1 {
+    float: left;
+    margin-top: 20px;
+}
+.soc-box .btn-login{
+display:none;}
+.soc-box a img{
+display:none;}
+
+.hidden-xs .soc-box .btn-login{
+display:block;}
+
+.hidden-xs{
+display:block !important;}
+}
+@media only screen and (max-width: 480px){
+.dash-box .masonry .item {
+    display: block;
+    margin: 0 auto;
+    padding: 0.25rem;
+    width: 90%;
+}
+.logoutClass #log_menu{
+margin-top:0px;}
+}
+
+@media only screen and (max-width: 640px){
+.navbar-collapse .navbar-nav .hidden-xs.logoutClass {
+    display: block;
+    margin-left: 24%;
+    width: 141px;
+}
+.logoutClass #log_menu{
+margin-top:0px;}
+
+#profile_menu .plusDrop .caret {
+    margin-top: 27px;
+}
+
+.dropdown.plusDrop.open .caret {
+    left: 32px !important;
+    top: -61px !important;
+}
+.plusDrop .caret{
+margin-top:19px;}
+#profile_menu .plusDrop .topButton{
+top:0px;}}
+@media only screen and (max-width: 320px){
+.logoutClass #log_menu{
+margin-top:0px;}
+.navbar-collapse .navbar-nav .hidden-xs.logoutClass {
+    display: block;
+    margin-left: 8% !important;
+    width: 141px !important;
+}
+.navbar-header .soc-box{
+float:none;}
+.navbar-header .soc-box{
+padding: 0 0 20px;}
+.dash-in .topr-up-box .nav-tabs > li{
+width:100%;
+font-size:16px;
+margin-bottom:10px;}
+
+.rwd-tabdle td{
+display:block;}
+.navbar-collapse .navbar-nav .hidden-xs {
+    display: block !important;
+    margin-left: 13%;
+    width: 120px;
+}
+.navbar-collapse .navbar-nav .logoutClass {
+    display: block;
+    margin-left: 1% !important;
+    width: 165px !important;
+}
+
+.topButton{
+margin-top:0px !important;}
+.rwd-tabdle th{
+display:none;}
+.rwd-tabdle td::before {
+    content: attr(data-th) " ";
+    display: inline-block;
+    font-weight: bold;
+    width: auto;
+}
+.dd {
+    margin-top: -60px;
+	position:relative;
+	display:none !important;
+}
+
+.vv{
+display:none !important;}
+
+.ss{
+display:block;}
+
+.dash-in .status-box .nav-tabs > li > a {
+    margin-bottom: 20px;
+    margin-right: 12px;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height:100% !important;
+    overflow: scroll !important;
+}
+#main-slider .carousel .carousel-inner h2 {
+    font-size: 30px;
+}
+.status-box .nav-tabs h3{
+margin:15px 20px 15px 20px !important;}
+.status-box .nav-tabs h3{
+clear:both;
+width:82%;}
+.status-box .nav-tabs > li.active > a, .status-box .nav-tabs > li.active > a:focus, .status-box .nav-tabs > li.active > a:hover, .status-box .nav > li > a{
+padding:8px 9px !important;}
+}
+@media only screen and (max-width: 360px){
+.navbar-collapse .navbar-nav .hidden-xs.logoutClass {
+    display: block;
+    margin-left: 8% !important;
+    width: 200px;
+}
+.logoutClass #log_menu{
+margin-top:0px;}
+.navbar-inverse .navbar-header .navbar-brand {
+   	display: block;
+    padding: 27px 2px 0 0;
+    width: 158px;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height:100% !important;
+    overflow: scroll;
+}
+.navbar-collapse .navbar-nav .logoutClass {
+    display: block !important;
+    width: 164px !important;
+}
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:480px){.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height:220px !important;
+    overflow: scroll !important;
+}}
+
+@media only screen and (min-device-width:360px) and (max-device-height:640px){.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 300px;
+    overflow: scroll;
+}}

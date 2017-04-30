@@ -1,0 +1,15 @@
+{
+
+    "stlpath": "/apps/decorate3d/public/themes/frontend/assets/vendor/codecanyon-3222913-stl3d-viewer/dist/models/trouser_clip.stl",
+
+    "objtitle": "Trouser Clip",
+
+    "description": "A nifty little mechanism to guard your trousers from the chain grease. Order this printed in ABS to take advantage of the flexible nature of this material.",
+
+    "materials": ["ABS","PLA","NYLON"],
+
+    "price": 9.99,
+
+    "price_subtext": "+ $20 for shipping outside USA."
+
+}
